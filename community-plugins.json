@@ -17253,5 +17253,12 @@
     "author": "d7sd6u",
     "description": "Add file's ftags as chips at the top of the markdown view.",
     "repo": "d7sd6u/obsidian-viewer-ftags"
+},
+{
+    "id": "mistral-pdf2md",
+    "name": "PDF to Markdown (Mistral OCR)",
+    "author": "CharLotte",
+    "description": "Convert PDF files to Markdown using Mistral OCR directly from the Obsidian file explorer.",
+    "repo": "mrrlll/pdf2md"
 }
 ]
